@@ -197,6 +197,6 @@ else:
 # Footer
 st.markdown("---")
 st.markdown(
-    "<div style='text-align: center; color: #666;'>Built with Streamlit & Groq API</div>",
+    "<div style='text-align: center; color: #666; font-weight: bold;'>Built by Aayush Panchal</div>",
     unsafe_allow_html=True
 )
